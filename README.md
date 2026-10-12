@@ -2,6 +2,8 @@
 
 React + TypeScript + Vite，普通 CSS。数据全部来自浏览器内的模拟，无服务端。
 
+- 在线演示：[打开节点瞭望](https://server-monitor-demo-bigo.workspace-169790.chatgpt.site)
+- 安装依赖：`npm ci`
 - 开发：`npm run dev -- --port 5173`
 - 测试：`npm test`
 - 构建：`npm run build`
