@@ -2,7 +2,7 @@
 
 一个中文服务器监控演示面板，使用 React、TypeScript、Vite 和普通 CSS。所有数据在浏览器内模拟，无需后端、API 密钥或环境变量。
 
-[在线演示](https://server-monitor-demo-bigo.workspace-169790.chatgpt.site)
+[在线演示](https://server-monitor.workspace-169790.chatgpt.site)
 
 ## 快速运行
 
